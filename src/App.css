@@ -1,0 +1,20 @@
+
+
+.header {
+  background-color: #171653;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.conteudo {
+  text-align: center;
+  padding: 2rem;
+}
+
+.footer {
+  background-color: #171653;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
